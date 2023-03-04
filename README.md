@@ -1,2 +1,2 @@
 # Cobalt Proper Bootloader #
-The Bootloader for Cobalt to be ran on QEMU
+The Bootloader for Cobalt to be ran on QEMU or something.
